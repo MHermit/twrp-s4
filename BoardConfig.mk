@@ -39,6 +39,8 @@ TARGET_ARCH_VARIANT := armv7-a-neon
 TARGET_CPU_SMP := true
 ARCH_ARM_HAVE_TLS_REGISTER := true
 
+TARGET_PREBUILT_KERNEL := device/samsung/kernel
+TARGET_PREBUILT_DTB := device/samsung/dt.img
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_CMDLINE := console=null androidboot.hardware=qcom user_debug=31 msm_rtb.filter=0x37 ehci-hcd.park=3 zcache.enabled=1 zcache.compressor=lz4
 #BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
