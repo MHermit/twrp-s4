@@ -1,2 +1,2 @@
-add_lunch_combo omni_jsglte-eng
-add_lunch_combo omni_jsglte-userdebug
+add_lunch_combo omni_ks01ltexx-eng
+add_lunch_combo omni_ks01ltexx-userdebug

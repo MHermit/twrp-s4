@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_jsglte.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_ks01ltexx.mk
